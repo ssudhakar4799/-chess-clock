@@ -1,0 +1,55 @@
+#container{
+    display: flex;
+    margin-top: 3%;
+    margin-left: 30%;
+}
+#number{
+    margin-left: 30%;
+    margin-top: 10%;
+    border-color: blue ;
+    padding: 1% 9% 1% 6%;
+    
+}
+#number::placeholder{
+    color: blue;
+    font-size:medium;
+    font-weight: bold;
+}
+.left{
+    background-color: aqua;
+    width: 20%;
+    height: 20vh;
+    text-align: center;
+   
+}
+.right{
+    background-color: blue;
+    width: 20%;
+    height: 20vh;
+    text-align: center;
+
+}
+#start{
+    margin-left: 30%;
+}
+#reset{
+margin-left: 21%;
+}
+#swap{
+    margin-right: 90%;
+    
+}
+#swap1{
+    margin-right: 90%;
+    
+}
+#inside{
+    font-size: larger;
+    font-weight: bold;
+
+}
+#inside2{
+    font-size: larger;
+    font-weight: bold;
+    
+}
